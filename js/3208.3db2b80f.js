@@ -1,0 +1,1 @@
+"use strict";(globalThis["webpackChunkposweb"]=globalThis["webpackChunkposweb"]||[]).push([[3208],{23208:(e,r,s)=>{s.r(r),s.d(r,{default:()=>c});var t=s(59835);function u(e,r,s,u,n,o){const a=(0,t.up)("router-view");return(0,t.wg)(),(0,t.j4)(a)}const n=(0,t.aZ)({setup(){return{}}});var o=s(11639);const a=(0,o.Z)(n,[["render",u]]),c=a}}]);
